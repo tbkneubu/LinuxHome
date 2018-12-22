@@ -1,0 +1,9 @@
+Uses following plugins:
+- tmux-battery
+- tmux-copycat
+- tmux-online-status
+- tmux-open
+- tmux-plugin-sysstat
+- tmux-prefix-highlight
+- tmux-sidebar
+- tpm
